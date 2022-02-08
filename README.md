@@ -1,6 +1,7 @@
 # #100DaysOfHacking
 This repository contains links to all the 100 days tweets that I posted during the #100DaysOfHacking challenge.
 
+[Announcement of Challenge](https://twitter.com/NjmUlSqb/status/1476271862866857986?s=20&t=RsjJeeid_TJEOqgiByqq7Q)
 [Day 1](https://twitter.com/NjmUlSqb/status/1477293904756187143)
 [Day 2](https://twitter.com/NjmUlSqb/status/1477682943808221197)
 [Day 3](https://twitter.com/NjmUlSqb/status/1478054322042818560)
@@ -39,3 +40,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 [Day 36](https://twitter.com/NjmUlSqb/status/1490009402421792770?s=20&t=HM7x-R3Fdiw45PPeX7_EqA)
 [Day 37](https://twitter.com/NjmUlSqb/status/1490383287977750536?s=20&t=O96BIsq2ph6Xzm1n0-muRA)
 [Day 38](https://twitter.com/NjmUlSqb/status/1490747310489444354?s=20&t=O96BIsq2ph6Xzm1n0-muRA)
+[Day 39](https://twitter.com/NjmUlSqb/status/1491060273636986880?s=20&t=Sh0K48ej3RmYUXCbUU8zFw)
