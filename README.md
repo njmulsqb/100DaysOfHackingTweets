@@ -46,3 +46,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 [Day 42](https://twitter.com/NjmUlSqb/status/1492153005231198212?s=20&t=HhWemL1lvrhyp0Mo_osyFw)
 [Day 43](https://twitter.com/NjmUlSqb/status/1492560737637699590?s=20&t=RQIv8RN3bf_lbukHCkH-kA)
 [Day 44](https://twitter.com/NjmUlSqb/status/1492891592507731971?s=20&t=3eFqDmSWZoWg-rDGIL2Lug)
+[Day 45](https://twitter.com/NjmUlSqb/status/1493277880939331590?s=20&t=VpqhgY2RF26BMLOoNV1dUg)
