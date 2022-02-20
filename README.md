@@ -50,3 +50,6 @@ This repository contains links to all the 100 days tweets that I posted during t
 [Day 46 - First Report Resolved](https://twitter.com/NjmUlSqb/status/1493599291763564546?s=20&t=hRV_Oh1ggYAzxESoUgTiaA)
 [Day 47](https://twitter.com/NjmUlSqb/status/1493987682531385345?s=20&t=0-3m1CHE-RrXSUOESykyCg)
 [Day 48](https://twitter.com/NjmUlSqb/status/1494349513942777857?s=20&t=dmj5e-56g213neY2-zc-6g)
+[Day 49](https://twitter.com/NjmUlSqb/status/1494705407511740429?t=UasoFAZCxaAY16UJEqQVTQ&s=19)
+[Day 50](https://twitter.com/NjmUlSqb/status/1494990026953961472?t=6F7d2OJTIrWf_6zOCHPJNQ&s=19)
+[Day 51](https://twitter.com/NjmUlSqb/status/1495434659357990918?s=20&t=XKrH9Sjak8zcit7yOmTtpg)
