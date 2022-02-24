@@ -55,4 +55,10 @@ This repository contains links to all the 100 days tweets that I posted during t
 [Day 51](https://twitter.com/NjmUlSqb/status/1495434659357990918?s=20&t=XKrH9Sjak8zcit7yOmTtpg)
 [Day 52](https://twitter.com/NjmUlSqb/status/1495799269298741253?s=20&t=gyGufTmrJ9H2Dm5kosk4ew)
 [Day 53](https://twitter.com/NjmUlSqb/status/1496173290909540358?s=20&t=xKprp6ExyzPbtBRFX2mDTg)
-[Day 54 - Reading whole login JS file | Trying to Bypass OTP using JS Debugger](https://twitter.com/NjmUlSqb/status/1496519348181422089?s=20&t=D85FSXSdXPdgkMKCuYfWZg)
+
+
+| Tweet Links |
+|-------------|
+|[Day 54 - Reading whole login JS file | Trying to Bypass OTP using JS Debugger](https://twitter.com/NjmUlSqb/status/1496519348181422089?s=20&t=D85FSXSdXPdgkMKCuYfWZg)
+|             |
+|             |
