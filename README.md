@@ -3,7 +3,7 @@ This repository contains links to all the 100 days tweets that I posted during t
 
 | Tweet Links |
 |-------------|
-|[Announcement of Challenge](https://twitter.com/NjmUlSqb/status/1476271862866857986?s=20&t=RsjJeeid_TJEOqgiByqq7Q)|
+|[Announcement of Challenge 🤞](https://twitter.com/NjmUlSqb/status/1476271862866857986?s=20&t=RsjJeeid_TJEOqgiByqq7Q)|
 |[Day 1](https://twitter.com/NjmUlSqb/status/1477293904756187143)|
 |[Day 2](https://twitter.com/NjmUlSqb/status/1477682943808221197)|
 |[Day 3](https://twitter.com/NjmUlSqb/status/1478054322042818560)|
@@ -50,7 +50,7 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 44](https://twitter.com/NjmUlSqb/status/1492891592507731971?s=20&t=3eFqDmSWZoWg-rDGIL2Lug)|
 |[Day 44](https://twitter.com/NjmUlSqb/status/1492891592507731971?s=20&t=3eFqDmSWZoWg-rDGIL2Lug)|
 |[Day 45](https://twitter.com/NjmUlSqb/status/1493277880939331590?s=20&t=VpqhgY2RF26BMLOoNV1dUg)|
-|[Day 46 - First Report Resolved](https://twitter.com/NjmUlSqb/status/1493599291763564546?s=20&t=hRV_Oh1ggYAzxESoUgTiaA)|
+|[Day 46 - First Report Resolved 😍](https://twitter.com/NjmUlSqb/status/1493599291763564546?s=20&t=hRV_Oh1ggYAzxESoUgTiaA)|
 |[Day 47](https://twitter.com/NjmUlSqb/status/1493987682531385345?s=20&t=0-3m1CHE-RrXSUOESykyCg)|
 |[Day 48](https://twitter.com/NjmUlSqb/status/1494349513942777857?s=20&t=dmj5e-56g213neY2-zc-6g)|
 |[Day 49](https://twitter.com/NjmUlSqb/status/1494705407511740429?t=UasoFAZCxaAY16UJEqQVTQ&s=19)|
@@ -61,3 +61,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 | [Day 54 - Reading whole login JS file, Trying to Bypass OTP using JS Debugger](https://twitter.com/NjmUlSqb/status/1496519348181422089?s=20&t=D85FSXSdXPdgkMKCuYfWZg) |
 |[Day 55 - Starting HTB Box, Testing Some Auth Related Functions using Dev Tools](https://twitter.com/NjmUlSqb/status/1496866279365517323?s=20&t=jxPZwLzvG4LsQ5bLjwAqVA)|
 |[Day 56 - How IDOR is fixed? , Cyber Defense Path](https://twitter.com/NjmUlSqb/status/1497250354932580353?s=20&t=nTF7S96i3mIhNmFRYdsMOg)|
+|[Day 57 - API Testing with OWASP ZAP, 2nd Order IDORs, Getting Burnt Out 🥺](https://twitter.com/NjmUlSqb/status/1497621794626355202?s=20&t=I9X-24j2VmASGVywTZEMlw)|
