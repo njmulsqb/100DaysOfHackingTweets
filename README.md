@@ -7,7 +7,7 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 1 - Tested 2FA, Interesting JS File, Sqreen WAF](https://twitter.com/NjmUlSqb/status/1477293904756187143)|
 |[Day 2 - Rate Limitation, XSS, XSRF](https://twitter.com/NjmUlSqb/status/1477682943808221197)|
 |[Day 3 - Improper rate limitation on OTP (email verification) plus no expiry of OTP — Report Submitted](https://twitter.com/NjmUlSqb/status/1478054322042818560)|
-|[Day 4](https://twitter.com/NjmUlSqb/status/1478420937301184512?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
+|[Day 4 - Report closed as N/A, understanind app's auth and CSRF protection](https://twitter.com/NjmUlSqb/status/1478420937301184512?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
 |[Day 5](https://twitter.com/NjmUlSqb/status/1478769187019534342?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
 |[Day 6](https://twitter.com/NjmUlSqb/status/1479163256791052292?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
 |[Day 7](https://twitter.com/NjmUlSqb/status/1479502045660938242?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
