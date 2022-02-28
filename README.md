@@ -61,3 +61,5 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 55 - Starting HTB Box, Testing Some Auth Related Functions using Dev Tools](https://twitter.com/NjmUlSqb/status/1496866279365517323?s=20&t=jxPZwLzvG4LsQ5bLjwAqVA)|
 |[Day 56 - How IDOR is fixed? , Cyber Defense Path](https://twitter.com/NjmUlSqb/status/1497250354932580353?s=20&t=nTF7S96i3mIhNmFRYdsMOg)|
 |[Day 57 - API Testing with OWASP ZAP, 2nd Order IDORs, Getting Burnt Out 🥺](https://twitter.com/NjmUlSqb/status/1497621794626355202?s=20&t=I9X-24j2VmASGVywTZEMlw)|
+|[Day 58 - TryHackMe ONLY , Breaking security of Linux/Windows given physical access to machine](https://twitter.com/NjmUlSqb/status/1497991132478783490?s=20&t=leEUpyAywaPaRuW-k0Fqpw)|
+|[Day 59 - Postman Environment & Dynamic Variables, Finding multiple postman collections, Approach to test the API](https://twitter.com/NjmUlSqb/status/1498342694334214151?s=20&t=leEUpyAywaPaRuW-k0Fqpw)|
