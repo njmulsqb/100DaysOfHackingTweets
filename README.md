@@ -63,3 +63,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 57 - API Testing with OWASP ZAP, 2nd Order IDORs, Getting Burnt Out 🥺](https://twitter.com/NjmUlSqb/status/1497621794626355202?s=20&t=I9X-24j2VmASGVywTZEMlw)|
 |[Day 58 - TryHackMe ONLY , Breaking security of Linux/Windows given physical access to machine](https://twitter.com/NjmUlSqb/status/1497991132478783490?s=20&t=leEUpyAywaPaRuW-k0Fqpw)|
 |[Day 59 - Postman Environment & Dynamic Variables, Finding multiple postman collections, Approach to test the API](https://twitter.com/NjmUlSqb/status/1498342694334214151?s=20&t=leEUpyAywaPaRuW-k0Fqpw)|
+|[Day 60 - Reading API documentation, Familiarity with Target is Important](https://twitter.com/NjmUlSqb/status/1498626686157533185?s=20&t=k6n3I9d4dCWA3yBSeZ_Cqw)|
