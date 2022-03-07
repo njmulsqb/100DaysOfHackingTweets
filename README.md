@@ -69,3 +69,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 63 - THM: Introductory Networking Room](https://twitter.com/NjmUlSqb/status/1499644293190979588?s=20&t=vJpmMWJ4KnYmhvdw1Eg2Pw)|
 |[Day 64 - THM: MITRE(started), 250 IDOR Reports, Health Issues](https://twitter.com/NjmUlSqb/status/1500007323380633600?s=20&t=X8IzqciiiMv7V3xjARb8ug)|
 |[Day 65 - THM: MITRE(done), CEH Prep](https://twitter.com/NjmUlSqb/status/1500498559854157827?s=20&t=fhI-qVVV5ghAptRi4y5J2A)|
+|[Day 66 - ECCouncil CEH Exam Passed, HTB: Paper box Pwned](https://twitter.com/NjmUlSqb/status/1500864463385333774?s=20&t=V-Ngs4dj6h4HFDD2zSlALg)|
