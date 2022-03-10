@@ -72,3 +72,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 66 - ECCouncil CEH Exam Passed, HTB: Paper box Pwned](https://twitter.com/NjmUlSqb/status/1500864463385333774?s=20&t=V-Ngs4dj6h4HFDD2zSlALg)|
 |[Day 67 - Using Postman, Zap & Burp together with Upstream Proxy, Throttling Active Scan to Avoid Rate Limitation on API](https://twitter.com/NjmUlSqb/status/1501235894916890626?s=20&t=N-K77uBzoNwysyEPDNWq5w)|
 |[Day 68 -  Dynamic API? , EC2 IPs on Shodan](https://twitter.com/NjmUlSqb/status/1501591828453335045?s=20&t=UwmZxFvvWsZBmQGFKMYs7Q)|
+|[Day 69 - Potentially Infinite Subdomains, Access Control Testing, Session Validation Checks](https://twitter.com/NjmUlSqb/status/1501973967946539018?s=20&t=xsDIIBZsLHrWlC07OLz0gA)|
