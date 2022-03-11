@@ -73,4 +73,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 67 - Using Postman, Zap & Burp together with Upstream Proxy, Throttling Active Scan to Avoid Rate Limitation on API](https://twitter.com/NjmUlSqb/status/1501235894916890626?s=20&t=N-K77uBzoNwysyEPDNWq5w)|
 |[Day 68 -  Dynamic API? , EC2 IPs on Shodan](https://twitter.com/NjmUlSqb/status/1501591828453335045?s=20&t=UwmZxFvvWsZBmQGFKMYs7Q)|
 |[Day 69 - Potentially Infinite Subdomains, Access Control Testing, Session Validation Checks](https://twitter.com/NjmUlSqb/status/1501973967946539018?s=20&t=xsDIIBZsLHrWlC07OLz0gA)|
-|[Horizontal Priv Esc on API, Active Scan on ZAP, Platform Shift](https://twitter.com/NjmUlSqb/status/1502298931727945728?s=20&t=udv4F_NbW7u-ICwqmBnhcA)|
+|[Day 70 - Horizontal Priv Esc on API, Active Scan on ZAP, Platform Shift](https://twitter.com/NjmUlSqb/status/1502298931727945728?s=20&t=udv4F_NbW7u-ICwqmBnhcA)|
