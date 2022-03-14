@@ -76,5 +76,5 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 69 - Potentially Infinite Subdomains, Access Control Testing, Session Validation Checks](https://twitter.com/NjmUlSqb/status/1501973967946539018?s=20&t=xsDIIBZsLHrWlC07OLz0gA)|
 |[Day 70 - Horizontal Priv Esc on API, Active Scan on ZAP, Platform Shift](https://twitter.com/NjmUlSqb/status/1502298931727945728?s=20&t=udv4F_NbW7u-ICwqmBnhcA)|
 |[Day 71 - Android Hacking Lab Environment, My experience with Genymotion, ADB, Frida, Android Studio](https://twitter.com/NjmUlSqb/status/1502696797927616515?s=20&t=GmaGBcpmFWN7zAbOjFq-Hg)|
-|[Day 72 - Google API Key | Intents & Activities  and other Android Concepts| Why lesser security issues in android?](https://twitter.com/NjmUlSqb/status/1503048276152655880?s=20&t=DJ3iIrtnpmwdmGsbyE5F7w)|
+|[Day 72 - Google API Key , Intents & Activities  and other Android Concepts, Why lesser security issues in android?](https://twitter.com/NjmUlSqb/status/1503048276152655880?s=20&t=DJ3iIrtnpmwdmGsbyE5F7w)|
 |[Day 73 - Different tools for decompilation, Android WebView, xAPK files from ApkPure](https://twitter.com/NjmUlSqb/status/1503415149494951939?s=20&t=EdOEHOSN-aGnThHMOhq9Hg)|
