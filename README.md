@@ -31,6 +31,7 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 25 - Proper usage of gau to fetch program's URLs](https://twitter.com/NjmUlSqb/status/1486000587913187333?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
 |[Day 26 - API Testing, So much manual cURLing 🤢](https://twitter.com/NjmUlSqb/status/1486386556772532231?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
 |[Day 27 - Giving another shot to APIs with repeater, EXIF Issue reporting deferred](https://twitter.com/NjmUlSqb/status/1486748484107739136?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
+|[](https://twitter.com/NjmUlSqb/status/1503415149494951939?s=20&t=EdOEHOSN-aGnThHMOhq9Hg)|
 |[Day 28 - Burp + Postman](https://twitter.com/NjmUlSqb/status/1487118282113138696?s=20&t=ekSri9H8VBUSBCWRsw6e-Q)|
 |[Day 29 - Bbht Fork Update, Shodan](https://twitter.com/NjmUlSqb/status/1487487357406400519?s=20&t=D3UXB70gMOrdebXR2gYyvQ)|
 |[Day 30 - API hacking writeups, notes & postman collection](https://twitter.com/NjmUlSqb/status/1487817366822137861?s=20&t=XRI43DD7VGOiSkFYLfcmvQ)|
@@ -76,3 +77,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 70 - Horizontal Priv Esc on API, Active Scan on ZAP, Platform Shift](https://twitter.com/NjmUlSqb/status/1502298931727945728?s=20&t=udv4F_NbW7u-ICwqmBnhcA)|
 |[Day 71 - Android Hacking Lab Environment, My experience with Genymotion, ADB, Frida, Android Studio](https://twitter.com/NjmUlSqb/status/1502696797927616515?s=20&t=GmaGBcpmFWN7zAbOjFq-Hg)|
 |[Day 72 - Google API Key | Intents & Activities  and other Android Concepts| Why lesser security issues in android?](https://twitter.com/NjmUlSqb/status/1503048276152655880?s=20&t=DJ3iIrtnpmwdmGsbyE5F7w)|
+|[Day 73 - Different tools for decompilation, Android WebView, xAPK files from ApkPure](https://twitter.com/NjmUlSqb/status/1503415149494951939?s=20&t=EdOEHOSN-aGnThHMOhq9Hg)|
