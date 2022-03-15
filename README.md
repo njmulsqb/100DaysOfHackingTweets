@@ -78,3 +78,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 71 - Android Hacking Lab Environment, My experience with Genymotion, ADB, Frida, Android Studio](https://twitter.com/NjmUlSqb/status/1502696797927616515?s=20&t=GmaGBcpmFWN7zAbOjFq-Hg)|
 |[Day 72 - Google API Key , Intents & Activities  and other Android Concepts, Why lesser security issues in android?](https://twitter.com/NjmUlSqb/status/1503048276152655880?s=20&t=DJ3iIrtnpmwdmGsbyE5F7w)|
 |[Day 73 - Different tools for decompilation, Android WebView, xAPK files from ApkPure](https://twitter.com/NjmUlSqb/status/1503415149494951939?s=20&t=EdOEHOSN-aGnThHMOhq9Hg)|
+|[Day 74 - Developing my first Android app](https://twitter.com/NjmUlSqb/status/1503792239255900161?s=20&t=L2f38CbTx95rsPTcu-nJeA)|
