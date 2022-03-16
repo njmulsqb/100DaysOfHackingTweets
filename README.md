@@ -79,3 +79,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 72 - Google API Key , Intents & Activities  and other Android Concepts, Why lesser security issues in android?](https://twitter.com/NjmUlSqb/status/1503048276152655880?s=20&t=DJ3iIrtnpmwdmGsbyE5F7w)|
 |[Day 73 - Different tools for decompilation, Android WebView, xAPK files from ApkPure](https://twitter.com/NjmUlSqb/status/1503415149494951939?s=20&t=EdOEHOSN-aGnThHMOhq9Hg)|
 |[Day 74 - Developing my first Android app](https://twitter.com/NjmUlSqb/status/1503792239255900161?s=20&t=L2f38CbTx95rsPTcu-nJeA)|
+|[Day 75 - React-native-decompiler, API key in app.config, Mobsec Vs. Websec](https://twitter.com/NjmUlSqb/status/1504152728406212618?s=20&t=0VvpJ5_wT0ll5C_jcl1LNw)|
