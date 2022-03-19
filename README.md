@@ -82,3 +82,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 75 - React-native-decompiler, API key in app.config, Mobsec Vs. Websec](https://twitter.com/NjmUlSqb/status/1504152728406212618?s=20&t=0VvpJ5_wT0ll5C_jcl1LNw)|
 |[Day 76 - Vulnerable Injured Android](https://twitter.com/NjmUlSqb/status/1504465903710134291?s=20&t=Rj700GZnxAyIKSOv9wEWRw)|
 |[Day 77 - Frustrating APK Decompilation, From JADx to Dex2Jar](https://twitter.com/NjmUlSqb/status/1504891354047987715?s=20&t=juPlamWGfe-fRGTSoiphew)|
+|[Day 78 - Decompilation Mystery Resolved, Finding some flags, Exported Activies, Path of Actvity's Code, Lots of Amazing Android Resources](https://twitter.com/NjmUlSqb/status/1505228633899683841?s=20)|
