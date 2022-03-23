@@ -86,3 +86,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 79 - Exploiting Exported Activities using AM & Malicious App, Setting up Drozer on Docker, Building POC App](https://twitter.com/NjmUlSqb/status/1505593262492590080?s=20&t=vao0GuzwqRB1qgB7jQkYmA)|
 |[Day 80 - IP of Emulator Device, Network issues on Docker, Outdated Drozer? , Android 11 Compatibility, Android Tamer](https://twitter.com/NjmUlSqb/status/1505952698918649860?s=20&t=6h8Uvx_Kfa6N5Jr28mtDZg)|
 |[Day 81 - Testing app's exported activities, SSL Pinning on app? Hacker101 Mobile Hacking Crash Course](https://twitter.com/NjmUlSqb/status/1506328164733173767?s=20&t=zJhUlhJmEm902njK3ksnqA)|
+|[Day 82 - Studying what SSL Pinning is? SSL Pinning Bypass Techniques, okHTTP Library](https://twitter.com/NjmUlSqb/status/1506685401351737345?s=20&t=kSm72APURLRKiebPPu_e1w)|
