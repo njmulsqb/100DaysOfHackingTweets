@@ -88,3 +88,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 81 - Testing app's exported activities, SSL Pinning on app? Hacker101 Mobile Hacking Crash Course](https://twitter.com/NjmUlSqb/status/1506328164733173767?s=20&t=zJhUlhJmEm902njK3ksnqA)|
 |[Day 82 - Studying what SSL Pinning is? SSL Pinning Bypass Techniques, okHTTP Library](https://twitter.com/NjmUlSqb/status/1506685401351737345?s=20&t=kSm72APURLRKiebPPu_e1w)|
 |[Day 83 - Target App's SSL Pinning Bypassed using Frida! Learning Frida Usage, Method Hooking](https://twitter.com/NjmUlSqb/status/1507052396484173824?s=20&t=-1BvOj_7oUftIMAGt0jEyQ)|
+|[Day 84 - Insecure Data Storage in Android, World Readable Directories](https://twitter.com/NjmUlSqb/status/1507421932186132480?s=20&t=O2RHS5p77EItjg-IqlBdRw)|
