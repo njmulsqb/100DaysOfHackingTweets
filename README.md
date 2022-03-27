@@ -90,3 +90,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 83 - Target App's SSL Pinning Bypassed using Frida! Learning Frida Usage, Method Hooking](https://twitter.com/NjmUlSqb/status/1507052396484173824?s=20&t=-1BvOj_7oUftIMAGt0jEyQ)|
 |[Day 84 - Insecure Data Storage in Android, World Readable Directories](https://twitter.com/NjmUlSqb/status/1507421932186132480?s=20&t=O2RHS5p77EItjg-IqlBdRw)|
 |[Day 85 - Expo.dev, API Keys and their impact, Android Attack Surface](https://twitter.com/NjmUlSqb/status/1507782228624953351?s=20&t=OE5LP9SZ_4lvPTxvvzKtZg)|
+|[Day 86 - One liner to find all the world readable files/dirs, Plan for rest of the challenege discussed](https://twitter.com/NjmUlSqb/status/1508133409637519361?s=20&t=QuY3qlE7DCoSh928i8l-dw)|
