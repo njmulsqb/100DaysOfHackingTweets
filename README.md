@@ -92,3 +92,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 85 - Expo.dev, API Keys and their impact, Android Attack Surface](https://twitter.com/NjmUlSqb/status/1507782228624953351?s=20&t=OE5LP9SZ_4lvPTxvvzKtZg)|
 |[Day 86 - One liner to find all the world readable files/dirs, Plan for rest of the challenege discussed](https://twitter.com/NjmUlSqb/status/1508133409637519361?s=20&t=QuY3qlE7DCoSh928i8l-dw)|
 |[Day 87 - Log Analysis via LogCat, Screenshot Capturing Security Issues, OWASP GitBook on Mobile Security](https://twitter.com/NjmUlSqb/status/1508460320158892045?s=20&t=4ONr26um4WwGfw3vsMOD9w)|
+|[Day 88 - Reverse Engineering Electron JS, Grep! Grep! Grep!, contextIsolation & nodeIntegration](https://twitter.com/NjmUlSqb/status/1508862079117234179?s=20&t=aBXsWPhi6CO-_NOHS83Bow)|
