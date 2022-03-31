@@ -94,3 +94,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 87 - Log Analysis via LogCat, Screenshot Capturing Security Issues, OWASP GitBook on Mobile Security](https://twitter.com/NjmUlSqb/status/1508460320158892045?s=20&t=4ONr26um4WwGfw3vsMOD9w)|
 |[Day 88 - Reverse Engineering Electron JS, Grep! Grep! Grep!, contextIsolation & nodeIntegration](https://twitter.com/NjmUlSqb/status/1508862079117234179?s=20&t=aBXsWPhi6CO-_NOHS83Bow)|
 |[Day 89 - Electronegativity, Fetching Electron Version via Console, Unrestricted Navigation Issue Found](https://twitter.com/NjmUlSqb/status/1509214742002425857?s=20&t=jQZGF8HwR5CiItibJJX1OQ)|
+|[Day 90 - Running Electron JS from Source, Proxying Electron App via Burp/Zap, Unexpected Event](https://twitter.com/NjmUlSqb/status/1509600679526117383?s=20&t=DCRkxC_dzTnjaAqsQ-7aZg)|
