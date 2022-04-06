@@ -100,3 +100,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 93 - sys.argv Vs. argparse, Multiple values of a single argument](https://twitter.com/NjmUlSqb/status/1510664579868676110?s=20&t=DscP7Cwqe_QIhCgc8y2CdQ)|
 |[Day 94 - Debugging GO issues in CronJobs, moduleNotFoundError in Python ](https://twitter.com/NjmUlSqb/status/1510994312917569543?s=20&t=JHE2P46iZPr7lM8H_Hqu1w)|
 |[Day 95 - Environment Variables in CRON, moduleNotFoundError {fixed}, weak reference object error {fixed}, Fetching subdomains already stored in DB based on program name input](https://twitter.com/NjmUlSqb/status/1511350694753751042?s=20&t=MIgtNlxqFRaFTNEbCYUALw)|
+|[Day 96 - subprocess.check_output(), Ditching temporary files, Storing new subdomains in DB, Sending new subdomains to discord](https://twitter.com/NjmUlSqb/status/1511684649109663753?s=20&t=4LwFFcHYcSIjahqSQ7sqeg)|
