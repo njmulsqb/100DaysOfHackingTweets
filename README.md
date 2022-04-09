@@ -103,3 +103,4 @@ This repository contains links to all the 100 days tweets that I posted during t
 |[Day 96 - subprocess.check_output(), Ditching temporary files, Storing new subdomains in DB, Sending new subdomains to discord](https://twitter.com/NjmUlSqb/status/1511684649109663753?s=20&t=4LwFFcHYcSIjahqSQ7sqeg)|
 |[Day 97 - Fixing the dynamic paths generated for configuration files](https://twitter.com/NjmUlSqb/status/1512130792113246217?s=20&t=tMsAgAaOxN-o-FNDU2_AFA)|
 |[Day 98 - Implementing probing functionality to recon automation framework, Habit of this challenge :)](https://twitter.com/NjmUlSqb/status/1512489602677940235?s=20&t=9hQan9O9Hnhn0xVFr7sm9g)|
+|[Day 99 - Adding port scanner to recon framework, ZAP Automation Framework, GraphQL Backend, Blog Post Draft](https://twitter.com/NjmUlSqb/status/1512834724477259778?s=20&t=TKSnhGqwvCaOpovirQPVLg)|
